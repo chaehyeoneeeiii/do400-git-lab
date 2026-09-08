@@ -1,4 +1,3 @@
-# do400-git-lab
-
+...output omitted...
 This is an example project repository for the DO400 course.
-This repository is only a test.
+This repository is a simple test example.
